@@ -83,7 +83,7 @@ AI-Financial-Fraud-Detection
 Clone the repository:
 
 
-git clone https://github.com/your-username/AI-Financial-Fraud-Detection.git
+git clone https://github.com/sandeepsv8055/AI-Financial-Fraud-Detection.git
 
 cd AI-Financial-Fraud-Detection
 
